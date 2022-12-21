@@ -1,0 +1,17 @@
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.csproj.AssemblyReference.cache
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.AssemblyInfoInputs.cache
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.AssemblyInfo.cs
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.csproj.CoreCompileInputs.cache
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\pw8.exe
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\pw8.deps.json
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\pw8.runtimeconfig.json
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\pw8.dll
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\pw8.pdb
+C:\Users\enoti\source\repos\test\pw8\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.csproj.CopyComplete
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.dll
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\refint\pw8.dll
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.pdb
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\pw8.genruntimeconfig.cache
+C:\Users\enoti\source\repos\test\pw8\obj\Debug\net6.0\ref\pw8.dll
